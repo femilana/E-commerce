@@ -111,4 +111,4 @@ Wishlist functionality
 
 👨‍💻 Author
 
-Built by [Oluwafe Ogunlana] 🚀
+Built by [Oluwafemi Ogunlana] 🚀
